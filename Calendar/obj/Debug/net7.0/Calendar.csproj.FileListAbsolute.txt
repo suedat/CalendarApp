@@ -1,0 +1,15 @@
+/Users/suedaturgut/Projects/CalendarApp/Entities/bin/Debug/net7.0/Calendar
+/Users/suedaturgut/Projects/CalendarApp/Entities/bin/Debug/net7.0/Calendar.deps.json
+/Users/suedaturgut/Projects/CalendarApp/Entities/bin/Debug/net7.0/Calendar.runtimeconfig.json
+/Users/suedaturgut/Projects/CalendarApp/Entities/bin/Debug/net7.0/Calendar.dll
+/Users/suedaturgut/Projects/CalendarApp/Entities/bin/Debug/net7.0/Calendar.pdb
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/Calendar.csproj.AssemblyReference.cache
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/Calendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/Calendar.AssemblyInfoInputs.cache
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/Calendar.AssemblyInfo.cs
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/Calendar.csproj.CoreCompileInputs.cache
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/Calendar.dll
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/refint/Calendar.dll
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/Calendar.pdb
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/Calendar.genruntimeconfig.cache
+/Users/suedaturgut/Projects/CalendarApp/Entities/obj/Debug/net7.0/ref/Calendar.dll
